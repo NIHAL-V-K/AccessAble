@@ -1,0 +1,29 @@
+button.back-to-dashboard {
+  all: unset !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 4px !important;
+
+  color: #174638 !important;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+
+  padding: 0 !important;
+  margin: 0 10px 0 0 !important;
+
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  cursor: pointer !important;
+  white-space: nowrap !important;
+}
+
+button.back-to-dashboard:hover {
+  color: #8BA88A !important;
+  background: transparent !important;
+}
+
+button.back-to-dashboard span {
+  font-size: 13px !important;
+}
